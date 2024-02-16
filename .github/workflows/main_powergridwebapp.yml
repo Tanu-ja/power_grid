@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'powergridwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B50FA9CB12C848918ACF63F242EEE433 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81D22816706D4F4F8ACC9365A31A440F }}
